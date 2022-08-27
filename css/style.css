@@ -653,6 +653,34 @@ a.active {
     opacity: 1;
 }
 
+.garage-on .close-popup-modal {
+    opacity: 1;
+}
+
+.satsolver-on .close-popup-modal {
+    opacity: 1;
+}
+
+.wlan-on .close-popup-modal {
+    opacity: 1;
+}
+
+.comparch-on .close-popup-modal {
+    opacity: 1;
+}
+
+.motbot-on .close-popup-modal {
+    opacity: 1;
+}
+
+.facedet-on .close-popup-modal {
+    opacity: 1;
+}
+
+.flaskyun-on .close-popup-modal {
+    opacity: 1;
+}
+
 .kumara-on .close-popup-modal {
     opacity: 1;
 }

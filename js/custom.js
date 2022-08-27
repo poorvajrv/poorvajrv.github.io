@@ -107,6 +107,13 @@ $(document).ready(function () {
     $("#demo01,#demo02,#demo03,#demo04,#demo05,#demo06,#demo07,#demo08,#demo09").animatedModal();
     $("#projmsp430").msp430();
     $('#greenhouse').gh();
+    $("#projgarage").garage();
+    $("#projsat").satsolver();
+    $("#projwlan").wlan();
+    $("#projcomparch").comparch();
+    $("#projmotbot").motbot();
+    $("#projfacedet").facedet();
+    $("#projflaskyun").flaskyun();
     $('#kumaragurupara').kumara();
 
     // Contact Form 	
