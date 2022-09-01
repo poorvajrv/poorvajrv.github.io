@@ -114,7 +114,7 @@ $(document).ready(function () {
     $("#projmotbot").motbot();
     $("#projfacedet").facedet();
     $("#projflaskyun").flaskyun();
-    $('#kumaragurupara').kumara();
+    //$('#kumaragurupara').kumara();
 
     // Contact Form 	
 
@@ -173,3 +173,8 @@ $(document).ready(function () {
 
     });
 });
+
+
+$('#carouselFade').carousel();
+
+
